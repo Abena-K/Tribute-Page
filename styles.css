@@ -1,0 +1,26 @@
+body{
+    color: #1E2227;
+    font-family: courier, serif;
+    font-size: 1.3em;
+    text-align: justify;
+    margin: 25px;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    width: 350px;
+    margin: 0 auto;
+    height: auto;
+    border-radius: 10%;
+  }
+  
+  #img-caption{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1.1em;
+  }
+  #tribute-link :hover{
+    color: violet;
+  }
+  
